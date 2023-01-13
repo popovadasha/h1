@@ -1,0 +1,19 @@
+.test1:focus {
+background-color: #DDA0DD; 
+}
+.test2:focus {
+background-color: #FFC0CB; 
+}
+.img-scale {
+  opacity: 80%;
+}
+.centered {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFFFFF;
+  font-size: 2em;}
+.fff {
+  font-size: 20px;
+}
